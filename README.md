@@ -4,5 +4,7 @@
 
 ボタンを押すとこみっくがーるずのかおすちゃんがあばあばするWebアプリです。
 
+https://abababa.herokuapp.com/
+
 ## License
 MIT
